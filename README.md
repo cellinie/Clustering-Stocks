@@ -3,5 +3,5 @@ Imagine we are given a massive dataset containing various stocks with different 
 
 # Files and Folders
 - Clustering_Stocks.ipynb is where the code and output is written.
-- The Clustering_Stocks.html is the final output for the project, the analysis can be viewed here.
+- [Clustering_Stocks.html](https://cellinie.github.io/cellinie.stockcluster.git.io/) is the final output for the project, the analysis can be viewed here.
 
